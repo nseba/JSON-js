@@ -1,0 +1,23 @@
+{
+    "name": "json-cycle",
+    "description": "Fork of douglascrockford to provide package.json for npm",
+    "author": "",
+    "version": "1.0.3",
+    "main": "./cycle.js",
+    "homepage": "https://github.com/douglascrockford/JSON-js",
+    "license": "Public-Domain",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/nseba/JSON-js.git"
+    },
+    "bugs": "http://github.com/douglascrockford/JSON-js/issues",
+    "keywords": [
+        "json",
+        "cycle",
+        "stringify",
+        "parse"
+    ],
+    "engines": {
+        "node": ">=0.4.0"
+    }
+}
